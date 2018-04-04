@@ -1,0 +1,6 @@
+E:\Source_code\Labs\C#\Lab3\bin\Debug\ConsoleApplication.exe.config
+E:\Source_code\Labs\C#\Lab3\bin\Debug\ConsoleApplication.exe
+E:\Source_code\Labs\C#\Lab3\bin\Debug\ConsoleApplication.pdb
+E:\Source_code\Labs\C#\Lab3\obj\x86\Debug\Lab4.csprojResolveAssemblyReference.cache
+E:\Source_code\Labs\C#\Lab3\obj\x86\Debug\ConsoleApplication.exe
+E:\Source_code\Labs\C#\Lab3\obj\x86\Debug\ConsoleApplication.pdb

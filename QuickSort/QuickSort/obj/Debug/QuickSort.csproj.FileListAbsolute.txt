@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\C#\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\C#\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\C#\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\C#\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\C#\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\C#\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
